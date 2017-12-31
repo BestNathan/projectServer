@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "this is my project's auth server",
+  "main": "app.js",
+  "dependencies": {
+    "mongoose": "^4.13.7"
+  },
+  "author": {
+    "name": "nathan"
+  }
+}
